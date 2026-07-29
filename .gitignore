@@ -1,0 +1,12 @@
+**/data/
+**/dataset/
+**/datasets/
+**/images/
+**/train/
+**/test/
+*.h5
+*.pt
+*.pth
+*.zip
+*.tar.gz
+*.csv
